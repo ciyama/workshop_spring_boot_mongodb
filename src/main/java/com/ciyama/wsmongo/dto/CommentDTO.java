@@ -43,7 +43,4 @@ public class CommentDTO implements Serializable{
 	public void setAuthor(AuthorDTO author) {
 		this.author = author;
 	}
-	
-	
-
 }
